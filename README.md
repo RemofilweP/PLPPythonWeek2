@@ -28,12 +28,12 @@ del my_list[-1]
 
 print("List with last element removed: ", my_list)
 
-#Sort my_list in ascending order
+# Sort my_list in ascending order
 sorted_list = sorted(my_list)
 
 print("Sorted List: ", sorted_list)
 
-#Find and print the index of the value 30 in my_list
+# Find and print the index of the value 30 in my_list
 value_30_index = my_list.index(30)
 
 print("The number 30 is found at index: ", value_30_index)
